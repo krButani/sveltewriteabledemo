@@ -7,7 +7,6 @@
 - File Code
 ```
 import { writable } from "svelte/store";
-
 ```
 
 ## App.svelte code 
@@ -56,7 +55,7 @@ import { writable } from "svelte/store";
 ```
 
 
-![Writable Store Demo](output.png)
+![Writable Store Demo](ouput.png)
 
 ## How to run Project
 
